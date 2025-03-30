@@ -8,27 +8,27 @@ An engaging and interactive quiz application that challenges users with a variet
 
 ## 🚀 Features
 
-- **Diverse Question Categories*: Explore a wide range of topics to test your knowlede.
-- **User-Friendly Interface*: Enjoy a seamless and intuitive user experiene.
-- **Responsive Design*: Optimized for various devices, ensuring accessibility on desktops, tablets, and smartphons.
+- **Diverse Question Categories*: Explore a wide range of topics to test your knowlede.
+- **User-Friendly Interface*: Enjoy a seamless and intuitive user experiene.
+- **Responsive Design*: Optimized for various devices, ensuring accessibility on desktops, tablets, and smartphons.
 
 ---
 
 ## 🛠 Technologies Used
 
-- **HTML*: Structure and content of the applicaton.
-- **CSS*: Styling and layout for a visually appealing interfce.
-- **JavaScript*: Interactive elements and dynamic content renderng.
+- **HTML*: Structure and content of the applicaton.
+- **CSS*: Styling and layout for a visually appealing interfce.
+- **JavaScript*: Interactive elements and dynamic content renderng.
 
 ---
 
-## 📂 Project Structre
+## 📂 Project Structure
 
-The project contains the following key files and directoies:
+The project contains the following key files and directoies:
 
-- `index.htl`: The main HTML file that serves as the entry point of the applicaion.
-- `stati/`: Directory containing static assets such as JavaScript files, CSS files, and imges.
-- `image/`: Directory containing image assets used in the applicaion.
+- `index.htl`: The main HTML file that serves as the entry point of the applicaion.
+- `stati/`: Directory containing static assets such as JavaScript files, CSS files, and imges.
+- `image/`: Directory containing image assets used in the applicaion.
 
 
 
